@@ -6,7 +6,7 @@ Author: Arsalan Wahid Asghar
 Type: Demo
 
 
-Simple way to get the project started
+Simple way to get the project started \n
 
 
 1. Download the Project 
